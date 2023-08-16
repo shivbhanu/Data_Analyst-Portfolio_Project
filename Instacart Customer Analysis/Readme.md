@@ -80,6 +80,15 @@ Apart from above insights, lets deep-dive into some user behaviours and patterns
   <img width="300" height="200" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Agg_Platform.png">
 </p> 
 
+## Tableau Dashboard 
+
+- Interactive Tableau Dashboard to deep-dive on customer patterns can be found [here](https://public.tableau.com/app/profile/anisha.marya/viz/InstacartAnalysis_16350198341140/InstacartDashboard).
+
+
+<p align="center">
+  <img width="800" height="600" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Dashboard.png">
+</p> 
+  
 
 
 ## Future Work 
