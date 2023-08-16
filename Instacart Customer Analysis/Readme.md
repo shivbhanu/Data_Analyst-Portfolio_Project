@@ -24,4 +24,20 @@ Instacart is a technology company that operates as a same-day grocery delivery a
     - Customers order once in a week which is supported by peaks at 7, 14, 21 and 30 in 'Orders VS Days since prior order' graph.
     - Based on the graph between 'Day of Week' and 'Hour of Day,' we can say that Saturday afternoons and Sunday mornings are prime time for orders.
 
+<p align="center">
+  <img width="300" height="200" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Order_DOW_HOD.png">
+</p>
+
+
+<p align="center">
+  <img width="300" height="200" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Day_of_Week.png">
+</p>
+
+- **products:** This file contains the list of total 49688 products and their aisle as well as department. The number of products in different aisles and different departments are different.
+
+
+## Exploratory Data Analysis
+
+
+
  
