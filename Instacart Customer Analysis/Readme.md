@@ -44,7 +44,28 @@ Instacart is a technology company that operates as a same-day grocery delivery a
   <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Aisle_Orders.png">
 </p> 
 
-- 
+- Top bought departments with their reorder ratios. Procude and Dairy eggs are clear winner. 
 
+   <p align="center">
+  <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Dept_Orders.png">
+</p> 
+
+- In tems of top products , many organic products are most popular ones.
+  
+<p align="center">
+  <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Most-popular-products.png">
+</p> 
+
+
+
+## Customer Insights 
+
+Apart from above insights, lets deep-dive into some user behaviours and patterns. 
+
+- **Re-ordering Pattern** : Most of the reorders happen on weekly/monthly basis i.e. 7th, 14th, 21st and 30th day of order. We can clearly see spikes in reorders on these days.
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Re-Ordering%20Pattern.png">
+</p>   
 
  
