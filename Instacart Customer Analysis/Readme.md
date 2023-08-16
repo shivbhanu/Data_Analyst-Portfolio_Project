@@ -68,4 +68,20 @@ Apart from above insights, lets deep-dive into some user behaviours and patterns
   <img width="600" height="400" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Re-Ordering%20Pattern.png">
 </p>   
 
- 
+- **Coke vs Pepsi** : In the battle of Coke vs Pepsi, Coke is the clear winner.
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Coke_vs_Pepsi.png">
+</p> 
+  
+- **Order Aggregates** : Below are some important platform averages.
+
+<p align="center">
+  <img width="300" height="200" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Agg_Platform.png">
+</p> 
+
+
+
+## Future Work 
+
+- We can perform customer segmentation using ML model to identify and target customers with similar preferences.
