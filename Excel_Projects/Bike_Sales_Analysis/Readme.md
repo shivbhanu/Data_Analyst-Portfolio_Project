@@ -29,3 +29,12 @@
 <p align="center">
   <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Bike_Sales_Analysis/Plots/Female_Commute.png">
 </p>
+
+
+- More such insights can be found in the dashboard attached. Very interesting to find such trends following cuts :
+    - Marital Status
+    - Occupation
+    - Region
+    - Education Level
+ 
+
