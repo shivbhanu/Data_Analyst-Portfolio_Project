@@ -86,7 +86,7 @@ Apart from above insights, lets deep-dive into some user behaviours and patterns
 
 
 <p align="center">
-  <img width="800" height="600" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Dashboard.png">
+  <img width="800" height="600" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/Dashboard_Final.png">
 </p> 
   
 
