@@ -8,6 +8,7 @@ Instacart is a technology company that operates as a same-day grocery delivery a
 - Analyze the anonymized [data](https://www.kaggle.com/c/instacart-market-basket-analysis/data) of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart.
 - Identify any pattern of what customers buy and how often they buy them.
 - Use SQL, Python to perform EDA and Tableau for visualization.
+- Gain insights into the purchasing patterns of Instacart users, including frequency and items bought.
 
 
 ## Data Description
