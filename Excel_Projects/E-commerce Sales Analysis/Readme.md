@@ -35,9 +35,18 @@
   
 
 ## **KPIs Insights**
-- Snapshot of the dashboard :
+- Following metrics were analysed :
+     - Delivered, Cancelled, Exchanged, Returned, RTO, Dispatched percent across State, Category, Cod/Prepaid and Monthly cut.
 
-  <p align="center">
-  <img width="700" height="500" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Bike_Sales_Analysis/Plots/Sales_Dashboard.png">
+- Above metrics for Prepaid orders were always better than that of COD orders.
+     - Metrics % : Prepaid vs COD 
+     - Delivered % : 58% vs 55%
+     - RTO % : 2% vs 15 %
+     - Cancellation% : 20% vs 19%.
+     - Return% : 18% vs 8.8% ( Opposite to expected as prepaid orders are given more preference in return than COD)
+
+- Snapshot of the metrics dashboard : 
+
+ <p align = "center">
+  <img width="800" height="400" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/E-commerce Sales Analysis/Images/metrics_dashboard.png">
 </p>
-
