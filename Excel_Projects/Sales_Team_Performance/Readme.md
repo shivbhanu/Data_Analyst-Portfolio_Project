@@ -3,7 +3,7 @@
 PFB team level performance report for FY13.
 
   <p align="center">
-  <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Excel_Projects/Sales_Team_Performance/summary_view.png">
+  <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Sales_Team_Performance/summary_view.png">
 </p>
 
  
