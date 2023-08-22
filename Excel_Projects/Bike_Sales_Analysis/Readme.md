@@ -37,4 +37,9 @@
     - Region
     - Education Level
  
+- Snapshot of the dashboard :
+
+  <p align="center">
+  <img width="700" height="500" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Bike_Sales_Analysis/Plots/Sales_Dashboard.png">
+</p>
 
