@@ -3,11 +3,10 @@
 PFB team level performance report for FY13.
 
   <p align="center">
-  <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Bike_Sales_Analysis/Plots/Avg_Income_Per_Purchase.png">
+  <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Excel_Projects/Sales_Team_Performance/summary_view.png">
 </p>
 
  
-![image](https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/assets/24880767/736cd90b-daad-40cc-9f4b-112cb0c5e953)
  
 
 Key findings:
