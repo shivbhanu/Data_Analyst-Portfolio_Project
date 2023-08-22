@@ -6,7 +6,7 @@
 
 - More percentage of males prefer to buy bike than females. ( 56%  to 52% ).
 
-- Avg income of Males purchasing bikes is way higher than the Females who buy them.
+- Avg income of Males purchasing bikes is higher ,~8% than the Females who buy them.
 
   <p align="center">
   <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Bike_Sales_Analysis/Plots/Avg_Income_Per_Purchase.png">
