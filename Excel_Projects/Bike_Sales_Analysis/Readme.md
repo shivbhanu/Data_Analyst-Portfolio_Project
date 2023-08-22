@@ -13,7 +13,7 @@
 </p>
 
 
-- Middle age users tend to buy more bikes than adolescent and old age users. 
+- Middle age users tend to buy more bikes than adolescent and old age users. However this percentage is higher in Females than Males.
 
   <p align="center">
   <img width="500" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Excel_Projects/Bike_Sales_Analysis/Plots/Customer_Age_Bucket.png">
