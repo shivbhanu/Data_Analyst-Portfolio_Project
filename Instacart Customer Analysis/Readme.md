@@ -4,6 +4,10 @@
 
 Instacart is a technology company that operates as a same-day grocery delivery and pick up service in the U.S. and Canada. Customers shop for groceries through the Instacart mobile app or Instacart.com from various retailer partners. The order is shopped and delivered by an Instacart personal shopper. Their goal is to ensure customers get their groceries delivered reliably, to lift up our retail partners, and to provide flexible earnings opportunities for shoppers.
 
+<p align="center">
+  <img width="800" height="500" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Instacart%20Customer%20Analysis/Plots/instacart.jpeg">
+</p>
+
 ### Objectives:
 - Analyze the anonymized [data](https://www.kaggle.com/c/instacart-market-basket-analysis/data) of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart.
 - Identify any pattern of what customers buy and how often they buy them.
