@@ -1,16 +1,25 @@
 # Personal Expense Tracker 
 
+
 ## Introduction
 
 I always wondered where my money was going every month. Here and there, in bits and pieces, some expenses accumulate and become significant by the end of the month. I tried using certain apps for tracking but couldn't get a hold of it. Then I thought, since I receive emails for each and every transaction from my bank, why not create an automated tracker for the same?
 
 As the saying goes, we can improve what we can track, and hence the motivation for this project, **Expense Tracker**.
 
+ 
+
+ <p align="center">
+  <img width="1000" height="300" src="https://github.com/shivbhanu/Data_Analyst-Portfolio_Project/blob/main/Expense_Tracker/Images/exp_main.jpeg">
+</p> 
+
+
+
 ## Objective
 
 To track my daily expenses and build automated report/tracker using transaction mails from bank.
 
-## Subtasks 
+## Process 
 
 - Import transaction emails from gmail.
 - Collect and process the gmail body html and convert it to readable text.
